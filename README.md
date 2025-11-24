@@ -1,7 +1,7 @@
-# LLM-Guided Multi-View Legal Element-Aware Contrastive Learning Framework for Similar Case Retrieval
+# LLM-Augmented Multiview Legal Element Contrastive Framework for Case Retrieval
 Code for LMECF :
 
-Title: LLM-Guided Multi-View Legal Element-Aware Contrastive Learning Framework for Similar Case Retrieval
+Title: LLM-Augmented Multiview Legal Element Contrastive Framework for Case Retrieval
 # Installation
 Requirements can be seen in `/requirements.txt`
 
